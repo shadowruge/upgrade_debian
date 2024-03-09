@@ -1,9 +1,9 @@
 # upgrade_debian
 mod for upgrade debian
 # First, ensure your system is up-to-date in it's current release.
-$ sudo apt-get update
-$ sudo apt-get upgrade
-$ sudo apt-get full-upgrade
+  $ sudo apt-get update
+  $ sudo apt-get upgrade
+  $ sudo apt-get full-upgrade
 
 # If you haven't already, ensure all backups are up-to-date.  
 
